@@ -1,0 +1,10 @@
+C:\Users\Usuário\Documents\projetos\Calculo De Temperatura\bin\Debug\Calculo De Temperatura.exe.config
+C:\Users\Usuário\Documents\projetos\Calculo De Temperatura\bin\Debug\Calculo De Temperatura.exe
+C:\Users\Usuário\Documents\projetos\Calculo De Temperatura\bin\Debug\Calculo De Temperatura.pdb
+C:\Users\Usuário\Documents\projetos\Calculo De Temperatura\obj\Debug\Calculo De Temperatura.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\projetos\Calculo De Temperatura\obj\Debug\Calculo_De_Temperatura.Form1.resources
+C:\Users\Usuário\Documents\projetos\Calculo De Temperatura\obj\Debug\Calculo_De_Temperatura.Properties.Resources.resources
+C:\Users\Usuário\Documents\projetos\Calculo De Temperatura\obj\Debug\Calculo De Temperatura.csproj.GenerateResource.cache
+C:\Users\Usuário\Documents\projetos\Calculo De Temperatura\obj\Debug\Calculo De Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\projetos\Calculo De Temperatura\obj\Debug\Calculo De Temperatura.exe
+C:\Users\Usuário\Documents\projetos\Calculo De Temperatura\obj\Debug\Calculo De Temperatura.pdb
